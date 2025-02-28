@@ -1,6 +1,7 @@
 {
   "name": "taller_2.2",
   "version": "1.0.0",
+  "type": "module",
   "main": "build.js",
   "scripts": {
     "start": "http-server ./dist",
