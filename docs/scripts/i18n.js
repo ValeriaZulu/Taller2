@@ -1,4 +1,4 @@
-import Polyglot from "node-polyglot";
+import Polyglot from "./node_modules/node-polyglot/index.js";
 
 // Traducciones
 const translations = {
